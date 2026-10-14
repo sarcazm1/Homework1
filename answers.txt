@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied to financial markets and the field of Finance. In my current minor of Computational Finance we use Data Science to analyze stock prices and bond yields for any patterns that are visible in previous historic data.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Git Merge combines 2 branches into 1 with the entire history preserved. While git rebase makes the branch begin at the end of main so all the new commits get added ontop
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to getting to know how to use pandas more and make charts with matplotlib
